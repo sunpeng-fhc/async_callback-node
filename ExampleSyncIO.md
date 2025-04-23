@@ -6,4 +6,4 @@ readFile1(filename1) and readFile2(filename2) define functions to read courseDet
 
 Before calling readFile1(filename1) and readFile2(filename2) functions, log messages are printed to indicate the start of the reading process for each file.
 
-![alt text](image.png)
+![alt text](ExampleSyncIO.png)
